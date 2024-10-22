@@ -1,3 +1,10 @@
 This is the part two of MiniProject (Drowsiness Detector).
 Codes are given in the repository you can just install VS Code and run on them.
 Certain packages are required to install in order to run the code and check them without any errors and provide clear output.
+By installing these packages either by using VS Code or Command Prompt you can easily run the file on your pc. 
+pip install numpy
+pip install pygame
+pip install time
+pip install dlib
+pip install cv2
+Make sure you check the audio file uploaded in this repo and use them in your project.
